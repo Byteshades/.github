@@ -23,6 +23,6 @@ Every product, with its changelog, is on [byteshades.com](https://byteshades.com
 
 ### Get in touch
 
-Bug reports, feature requests or a tool you wish existed: [byteshades@gmail.com](mailto:byteshades@gmail.com)
+Bug reports, feature requests or a tool you wish existed: [contact@byteshades.com](mailto:contact@byteshades.com)
 
 <sub>Kolkata, India · One byte, many shades.</sub>
